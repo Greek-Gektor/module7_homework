@@ -21,7 +21,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module9_homework" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,7 +42,8 @@
       <workItem from="1626506188907" duration="9000" />
       <workItem from="1626506218867" duration="8000" />
       <workItem from="1626506228183" duration="941000" />
-      <workItem from="1626507185943" duration="341000" />
+      <workItem from="1626507185943" duration="425000" />
+      <workItem from="1627013499798" duration="12000" />
     </task>
     <servers />
   </component>
@@ -50,9 +51,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1626506225549">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627013509633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626506225549" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627013509633" />
   </component>
 </project>
